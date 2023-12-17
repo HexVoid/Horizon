@@ -1,6 +1,6 @@
-# APLHA STAGE
+**APLHA STAGE**
 
-## All parts are subject to change
+**All parts are subject to change**
 
 You are welcome to join me in building the first version, If you do I highly suggest you join me over at [https://discord.gg/s4KwsbyvXZ]
 I don't currently have a public BOM for this so if you have any questions about the parts then let me know.
